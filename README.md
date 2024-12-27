@@ -42,4 +42,4 @@ Task B: Paragraph Extraction
 - OpenCV 
 
 ## Contributors
-[Chan Kah Gin](https://github.com/kahgin) ✨ [Ho Zi Shan]() ✨ [Lee Wen Xuan](https://github.com/agneslee40) ✨ [Thit Sar Zin](https://github.com/thitsarzin)
+[Chan Kah Gin](https://github.com/kahgin) ✨ [Ho Zi Shan](https://github.com/Zs1028) ✨ [Lee Wen Xuan](https://github.com/agneslee40) ✨ [Thit Sar Zin](https://github.com/thitsarzin)
